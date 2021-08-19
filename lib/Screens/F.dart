@@ -15,7 +15,7 @@ class _forvirateState extends State<forvirate> {
       height: double.infinity,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
-        children: [Text("صفحة تخيل ")],
+        children: [Text("صفحة عبدالشكور ")],
       ),
     );
   }
